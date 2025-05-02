@@ -1,0 +1,24 @@
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.blog1{
+    /* display:none; */
+box-shadow: 10px;
+background-color: yellow;
+box-shadow: 10px 10px;
+background-image: url('img.jpg.jpg');
+/* background-image: url('../img.jpg.jpg'); */
+/* background-size: cover; */
+background-size: 50px;
+/* background-repeat: no-repeat; */
+}
+.blog{
+    border:10px solid tomato;
+    
+}
+.hold{
+    border:2px solid peru;
+   height: 50px;
+   /* display: block; */
+}
